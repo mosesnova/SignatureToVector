@@ -1,0 +1,10 @@
+D:\SignatureCaptureFroms\SignatureCaptureFroms\obj\Debug\SignatureCaptureFroms.csprojAssemblyReference.cache
+D:\SignatureCaptureFroms\SignatureCaptureFroms\obj\Debug\SignatureCaptureFroms.Form1.resources
+D:\SignatureCaptureFroms\SignatureCaptureFroms\obj\Debug\SignatureCaptureFroms.Properties.Resources.resources
+D:\SignatureCaptureFroms\SignatureCaptureFroms\obj\Debug\SignatureCaptureFroms.csproj.GenerateResource.cache
+D:\SignatureCaptureFroms\SignatureCaptureFroms\obj\Debug\SignatureCaptureFroms.csproj.CoreCompileInputs.cache
+D:\SignatureCaptureFroms\SignatureCaptureFroms\bin\Debug\SignatureCaptureFroms.exe.config
+D:\SignatureCaptureFroms\SignatureCaptureFroms\bin\Debug\SignatureCaptureFroms.exe
+D:\SignatureCaptureFroms\SignatureCaptureFroms\bin\Debug\SignatureCaptureFroms.pdb
+D:\SignatureCaptureFroms\SignatureCaptureFroms\obj\Debug\SignatureCaptureFroms.exe
+D:\SignatureCaptureFroms\SignatureCaptureFroms\obj\Debug\SignatureCaptureFroms.pdb
